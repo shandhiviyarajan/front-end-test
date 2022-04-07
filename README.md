@@ -7,8 +7,8 @@ where on the right side of the screen should display a cart that show a list of 
 
 ## Contact Details
 Please fill in your name and email
-- Name: Deverajan Prashandren (Shan)
-- Email: prashasoft@gmail.com
+- Name: -
+- Email: -
 
 ## Features
 
@@ -16,7 +16,7 @@ Please fill in your name and email
 - each robot should show image, name, price, stock, created date, material, and button to add to cart
     - created date should display in `DD-MM-YYYY` format
     - when robot is out of stock add to cart button should be disabled
-    - price should be displayed in Thai Baht formatted, `฿5,300.00`
+    - price should be displayed in LKR formatted, `LKJ 5,000.00`
 - give the user option to filter by a robot's material type.
 - user can add up to 5 different robots to cart, but they can select as much as they want in the same type until it runs
   out of stock.
@@ -25,7 +25,7 @@ Please fill in your name and email
     - cart should contain list of selected robots, total amount and total price
     - user can increase or decrease the number of robots inside of cart section
     - total amount should be the total number of selected robots
-    - total price should be in Thai Baht formatted, `฿5,300.00`
+    - total price should be in Thai LKR formatted, `LKR 15,000.00`
 
 ## Robots API
 
@@ -62,8 +62,8 @@ libraries/frameworks, packages, tools that you want.
 ### What should I do when I'm finished?
 
 After you have finished you work push all commits to your repository, and then send us email to inform that app has been finished, also please add following users there:
-* win@morphos.is
-* suhas@morphos.is
+* shan@keeneye.solutions
+* bushra.sama@beyondtec.co
 
 ### How is the exam graded?
 
@@ -71,4 +71,4 @@ We are looking for idiomatic use of JavaScript, and the ability to solve the pro
 read. Please show us how you would use the language and conventions to structure things in a clear and maintainable way.
 
 Even though we are not giving you the UI design, we believe that as a Frontend Developer you should have some ideas of
-how it should look. You are free to use any styling tools that you want, SASS, css-in-js, or even styled-components.
+how it should look. You are free to use any styling tools that you want, SASS, Bootstrap, or even styled-components.
