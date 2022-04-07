@@ -56,7 +56,7 @@ server is `localhost:8000`
 
 ### What libraries/frameworks, packages, tools can I use?
 
-The project frontend is in React.js (you can select between js or ts), but other than that you are free to use whatever
+The project frontend should be in Vue.Js or React.js (you can select between js or ts), but other than that you are free to use whatever
 libraries/frameworks, packages, tools that you want.
 
 ### What should I do when I'm finished?
