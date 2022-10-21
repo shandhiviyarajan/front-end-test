@@ -56,14 +56,13 @@ server is `localhost:8000`
 
 ### What libraries/frameworks, packages, tools can I use?
 
-The project frontend should be in Vue.Js or React.js (you can select between js or ts), but other than that you are free to use whatever
+The project frontend should be REACT NATIVE APPLICATION (you can select between js or ts), but other than that you are free to use whatever
 libraries/frameworks, packages, tools that you want.
 
 ### What should I do when I'm finished?
 
-After you have finished you work push all commits to your repository, and then send us email to inform that app has been finished, also please add following users there:
-* shan@keeneye.solutions
-* bushra.sama@beyondtec.co
+After you have finished you work push all commits to your repository, and then send us email to inform that app has been finished, also please add following users mentioned on the email.
+
 
 ### How is the exam graded?
 
