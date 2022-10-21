@@ -16,7 +16,7 @@ Please fill in your name and email
 - each robot should show image, name, price, stock, created date, material, and button to add to cart
     - created date should display in `DD-MM-YYYY` format
     - when robot is out of stock add to cart button should be disabled
-    - price should be displayed in LKR formatted, `LKJ 5,000.00`
+    - price should be displayed in LKR formatted, `LKR 5,000.00`
 - give the user option to filter by a robot's material type.
 - user can add up to 5 different robots to cart, but they can select as much as they want in the same type until it runs
   out of stock.
@@ -25,7 +25,7 @@ Please fill in your name and email
     - cart should contain list of selected robots, total amount and total price
     - user can increase or decrease the number of robots inside of cart section
     - total amount should be the total number of selected robots
-    - total price should be in Thai LKR formatted, `LKR 15,000.00`
+    - total price should be in LKR formatted, `LKR 15,000.00`
 
 ## Robots API
 
