@@ -46,7 +46,7 @@ Please fill in your name and email
 
 ## FAQs
 
-### How do I start the app?
+### How do I start the app server?
 
 At the very beginning please fork or clone this repository into your own private repository (github / bitbucket).
 During all development please make regular commits while working on this app.
@@ -65,6 +65,7 @@ After you have finished you work push all commits to your repository, and then s
 
 
 ### How is the exam graded?
+Push commits then and there to check your approach on development or providing solution.
 
 We are looking for idiomatic use of JavaScript, and the ability to solve the problem with code that is clean and easy to
 read. Please show us how you would use the language and conventions to structure things in a clear and maintainable way.
